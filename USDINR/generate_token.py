@@ -1,7 +1,7 @@
 from kiteconnect import KiteConnect
 
-API_KEY = "3kgmht92u94cowkg"
-API_SECRET = "qs5we85barayqa8o9e6lxvn9z5mflsd5"
+API_KEY = "API_KEY"
+API_SECRET = "API_SECRET"
 
 # https://kite.trade/connect/login?api_key=3kgmht92u94cowkg
 
