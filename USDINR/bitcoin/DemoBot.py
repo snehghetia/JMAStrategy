@@ -3,8 +3,8 @@ import pandas as pd
 from binance.client import Client
 from BitcoinJMA import generate_signal
 
-API_KEY = "6jKaDHroqt8qJaQlpWn6dtJPlNSMa724gzi5Bxar49kewihi1fjSMXU8KGDG58Vd"
-API_SECRET = "i6GRDMxuPsHuntVvnWBQeljiVtFWQhqcrmQlpHhP7vsnO0k8eapmIpuj6WhYuHOG"
+API_KEY = "API_KEY"
+API_SECRET = "API_SECRET"
 
 SYMBOL = "BNBUSDT"
 INTERVAL = Client.KLINE_INTERVAL_5MINUTE
