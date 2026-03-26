@@ -1,6 +1,6 @@
 from kiteconnect import KiteConnect
 
-API_KEY = "3kgmht92u94cowkg"
+API_KEY = "API_KEY"
 ACCESS_TOKEN = open("access_token.txt").read().strip()
 
 kite = KiteConnect(api_key=API_KEY)
