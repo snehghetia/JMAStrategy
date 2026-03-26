@@ -1,8 +1,8 @@
 from kiteconnect import KiteConnect
 from datetime import datetime
 
-API_KEY = "3kgmht92u94cowkg"
-ACCESS_TOKEN = "M1fYOKpH7KmZDbsbD2L94Xu3LCZj6mOl"
+API_KEY = "API_KEY"
+ACCESS_TOKEN = "M1fYOKpH7KmZDbsbD2L94Xu3LCZj6mOl" \\Generated daily
 
 kite = KiteConnect(api_key=API_KEY)
 kite.set_access_token(ACCESS_TOKEN)
