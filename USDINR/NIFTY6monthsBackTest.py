@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import numpy as np
 
 # ===================== CONFIG ======================
-API_KEY = "3kgmht92u94cowkg"
+API_KEY = "API_KEY"
 ACCESS_TOKEN = open("access_token.txt").read().strip()
 
 INDEX_TOKEN = 272643  # NIFTY 50
